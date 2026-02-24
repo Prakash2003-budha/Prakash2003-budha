@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Prakash Budha Magar</h1>
+<h1 align="center">Hi, I'm Prakash Budha Magar</h1>
 <h3 align="center">A passionate person from Nepal</h3>
 
-- 🌱 I’m currently learning **react**
+- I’m currently learning **react**
 
-- 📫 How to reach me **prakashbudha2003@gmail.com**
+- How to reach me **prakashbudha2003@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
