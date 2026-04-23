@@ -1,7 +1,7 @@
 # Namaste, I'm Prakash Budha Magar! 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+In+Training;Passionate+about+React;Cloud+Enthusiast;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+In+Training;Passionate+about+Technology;Cloud+Enthusiast;Problem+Solver" alt="Typing SVG" />
 </p>
 
 <p align="center">
