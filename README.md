@@ -27,14 +27,6 @@ I am a passionate developer from **Nepal** currently honing my skills in the **M
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=prakashbudhamagar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakashbudhamagar&layout=compact&langs_count=7&theme=tokyonight"/>
-</p>
-
----
-
 ### 🤝 Connect with me
 <p align="left">
 <a href="https://www.linkedin.com/in/prakash-budha-magar-7a3ba1301/" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
