@@ -1,4 +1,4 @@
-# 👨‍💻 Namaste, I'm Prakash Budha Magar!
+# Namaste, I'm Prakash Budha Magar!
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+In+Training;Passionate+about+React;Cloud+Enthusiast;Problem+Solver" alt="Typing SVG" />
@@ -6,17 +6,17 @@
 
 ---
 
-### 💫 About Me
+### About Me
 I am a passionate developer from **Nepal** currently honing my skills in the **MERN Stack** and Cloud technologies. I love building scalable web applications and exploring the intersection of DevOps and Development.
 
-- 🔭 I’m currently working on **Personal Portfolio Projects**
-- 🌱 I’m currently learning **React.js & Advanced Node.js**
-- ☁️ Interested in **Cloud Architecture (AWS/Azure/GCP)**
-- 📧 Reach me at: [prakashbudha2003@gmail.com](mailto:prakashbudha2003@gmail.com)
+- I’m currently working on **Personal Portfolio Projects**
+- I’m currently learning **React.js & Advanced Node.js**
+- Interested in **Cloud Architecture (AWS/Azure/GCP)**
+- Reach me at: [prakashbudha2003@gmail.com](mailto:prakashbudha2003@gmail.com)
 
 ---
 
-### 🛠️ Tech Stack
+###Tech Stack
 
 | Category | Tools & Languages |
 | :--- | :--- |
@@ -27,7 +27,7 @@ I am a passionate developer from **Nepal** currently honing my skills in the **M
 
 ---
 
-### 🤝 Connect with me
+###Connect with me
 <p align="left">
 <a href="https://www.linkedin.com/in/prakash-budha-magar-7a3ba1301/" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.instagram.com/prakash_b_mgr/" target="blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" /></a>
